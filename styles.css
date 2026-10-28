@@ -8,8 +8,8 @@ button{
     border: 2px solid white;
     border-radius: 4px;
     height: 30px;
-    width: 60px;
+    width: 80px;
     color: purple;
-    font-size: 15px;
+    font-size: 5px;
     cursor: pointer;
 }
