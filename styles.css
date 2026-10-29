@@ -1,5 +1,5 @@
 body{
-    background-color: red;
+    background-color: rgb(202, 171, 145);
 }
 
 button{
@@ -9,7 +9,7 @@ button{
     border-radius: 4px;
     height: 30px;
     width: 80px;
-    color: purple;
+    color: rgb(127, 127, 231);
     font-size: 5px;
     cursor: pointer;
 }
